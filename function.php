@@ -771,4 +771,4 @@ function arrangement($n, $m) {
 function combination($n, $m) {
     return arrangement($n, $m)/factorial($m);
 }
-?>
+
